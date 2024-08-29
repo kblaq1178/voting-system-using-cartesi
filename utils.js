@@ -1,5 +1,3 @@
-
-
 exports.isValidProposal = (title, description) => {
     return title && title.trim() !== '' && description && description.trim() !== '';
 };
