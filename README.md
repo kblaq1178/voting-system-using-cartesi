@@ -31,8 +31,8 @@ decentralized-voting-system/
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/decentralized-voting-system.git
-    cd decentralized-voting-system
+    git clone https://github.com/your-username/voting-system-using-cartesi.git
+    cd voting-system-using-cartesi
     ```
 
 2. Install dependencies:
